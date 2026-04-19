@@ -1,0 +1,18 @@
+# Cette ligne ignore tout le dossier Library (fichiers générés)
+/Library/
+# Dossier Temp
+/Temp/
+# Dossier Obj
+/Obj/
+# Dossier Builds
+/Builds/
+# Fichiers de configuration utilisateur
+*.csproj
+*.sln
+*.userprefs
+.idea/
+.vs/
+# Dossier Logs
+/Logs/
+# Fichier de cache de Unity
+/UserSettings/
