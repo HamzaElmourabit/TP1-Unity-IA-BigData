@@ -32,6 +32,7 @@ L’objectif est de créer une simulation 3D interactive où l’utilisateur peu
 ## 📁 Structure du projet
 
 Voici l’arborescence complète du projet :
+```
 TP1_Unity_IA/
 │
 ├── Assets/
