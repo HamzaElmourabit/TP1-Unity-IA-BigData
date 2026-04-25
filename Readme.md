@@ -57,7 +57,7 @@ TP1_Unity_IA/
 ├── Packages/ # (géré automatiquement par Unity)
 ├── ProjectSettings/ # (géré automatiquement par Unity)
 └── README.md # Ce fichier
-
+```
 **Légende** :  
 - Les dossiers `Scenes`, `Scripts`, `Materials` sont à créer manuellement.  
 - Les fichiers `session_data.json` et `.csv` apparaissent automatiquement après avoir joué et quitté la scène.
